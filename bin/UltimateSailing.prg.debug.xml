@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<debugInfo>
+    <manifest filename="C:\Users\utente\eclipse-workspace\UltimateSailing\manifest.xml"/>
+    <pcToLineNum>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="3" lineNum="11" pc="268435456" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="15" pc="268435461" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="16" pc="268435465" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="18" pc="268435490" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="19" pc="268435510" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="20" pc="268435536" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="22" pc="268435561" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="23" pc="268435581" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="25" pc="268435607" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="27" pc="268435638" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="28" pc="268435658" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="30" pc="268435684" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="32" pc="268435709" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="4" lineNum="33" pc="268435729" symbol="poke"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="5" lineNum="39" pc="268435756" symbol="vibrate"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="5" lineNum="40" pc="268435760" symbol="vibrate"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="5" lineNum="41" pc="268435775" symbol="vibrate"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="5" lineNum="6" pc="268438203" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingFeedBack.mc" id="5" lineNum="7" pc="268438261" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="14" pc="268435797" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="15" pc="268435801" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="16" pc="268435819" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="18" pc="268435829" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="20" pc="268435859" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="22" pc="268435889" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="7" lineNum="23" pc="268435923" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="8" lineNum="28" pc="268435965" symbol="onMenu"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="8" lineNum="29" pc="268435969" symbol="onMenu"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="9" lineNum="32" pc="268435973" symbol="onBack"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="9" lineNum="33" pc="268435977" symbol="onBack"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="9" lineNum="34" pc="268436005" symbol="onBack"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="10" lineNum="37" pc="268436009" symbol="onSelect"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="10" lineNum="38" pc="268436013" symbol="onSelect"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="10" lineNum="40" pc="268436031" symbol="onSelect"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="10" lineNum="41" pc="268436043" symbol="onSelect"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="10" lineNum="42" pc="268436059" symbol="onSelect"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="11" lineNum="45" pc="268436063" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="11" lineNum="46" pc="268436067" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="11" lineNum="47" pc="268436085" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="11" lineNum="48" pc="268436097" symbol="onPreviousPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="12" lineNum="51" pc="268436114" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="12" lineNum="52" pc="268436118" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="12" lineNum="53" pc="268436136" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="12" lineNum="54" pc="268436148" symbol="onNextPage"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="58" pc="268436165" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="59" pc="268436169" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="61" pc="268436186" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="62" pc="268436217" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="70" pc="268436337" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="72" pc="268436371" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="13" lineNum="74" pc="268436383" symbol="timerCallback"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="77" pc="268436400" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="78" pc="268436404" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="79" pc="268436423" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="80" pc="268436442" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="85" pc="268436520" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="86" pc="268436540" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="89" pc="268436565" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="90" pc="268436599" symbol="updateRaceTimer"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingDelegate.mc" id="14" lineNum="7" pc="268438369" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="16" lineNum="15" pc="268436618" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="16" lineNum="16" pc="268436622" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="16" lineNum="17" pc="268436635" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="17" lineNum="20" pc="268436648" symbol="reset"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="17" lineNum="21" pc="268436652" symbol="reset"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="17" lineNum="22" pc="268436665" symbol="reset"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="17" lineNum="23" pc="268436694" symbol="reset"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="18" lineNum="27" pc="268436707" symbol="togglePause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="18" lineNum="28" pc="268436711" symbol="togglePause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="18" lineNum="29" pc="268436725" symbol="togglePause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="18" lineNum="30" pc="268436740" symbol="togglePause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="18" lineNum="31" pc="268436754" symbol="togglePause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="18" lineNum="33" pc="268436769" symbol="togglePause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="37" pc="268436782" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="38" pc="268436786" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="39" pc="268436800" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="41" pc="268436815" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="41" pc="268436832" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="42" pc="268436848" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="42" pc="268436865" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="43" pc="268436881" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="43" pc="268436898" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="19" lineNum="44" pc="268436914" symbol="specialAction"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="20" lineNum="48" pc="268436927" symbol="pause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="20" lineNum="49" pc="268436931" symbol="pause"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="21" lineNum="52" pc="268436945" symbol="resume"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="21" lineNum="53" pc="268436949" symbol="resume"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="22" lineNum="56" pc="268436963" symbol="setTime"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="22" lineNum="57" pc="268436967" symbol="setTime"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="22" lineNum="58" pc="268436993" symbol="setTime"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="22" lineNum="59" pc="268437010" symbol="setTime"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="23" lineNum="63" pc="268437027" symbol="syncDown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="23" lineNum="64" pc="268437031" symbol="syncDown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="24" lineNum="67" pc="268437060" symbol="getDuration"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="24" lineNum="68" pc="268437064" symbol="getDuration"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="25" lineNum="71" pc="268437074" symbol="getSeconds"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="25" lineNum="72" pc="268437078" symbol="getSeconds"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="26" lineNum="75" pc="268437113" symbol="getMinutes"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="26" lineNum="76" pc="268437117" symbol="getMinutes"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="27" lineNum="79" pc="268437169" symbol="isPaused"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="27" lineNum="80" pc="268437173" symbol="isPaused"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="28" lineNum="83" pc="268437189" symbol="isCountingDown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="28" lineNum="84" pc="268437193" symbol="isCountingDown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="29" lineNum="87" pc="268437209" symbol="isRacing"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="29" lineNum="88" pc="268437213" symbol="isRacing"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="30" lineNum="91" pc="268437229" symbol="countdown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="30" lineNum="92" pc="268437233" symbol="countdown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="30" lineNum="93" pc="268437248" symbol="countdown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="30" lineNum="94" pc="268437268" symbol="countdown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="30" lineNum="96" pc="268437290" symbol="countdown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingTimer.mc" id="30" lineNum="97" pc="268437303" symbol="countdown"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="32" lineNum="6" pc="268437320" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="32" lineNum="7" pc="268437324" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="33" lineNum="11" pc="268437343" symbol="onLayout"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="33" lineNum="12" pc="268437347" symbol="onLayout"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="34" lineNum="18" pc="268437385" symbol="onShow"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="35" lineNum="22" pc="268437390" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="35" lineNum="24" pc="268437394" symbol="onUpdate"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="36" lineNum="30" pc="268437415" symbol="onHide"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingView.mc" id="36" lineNum="4" pc="268438184" symbol="&lt;init&gt;"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="38" lineNum="6" pc="268437420" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="38" lineNum="7" pc="268437424" symbol="initialize"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="39" lineNum="10" pc="268437443" symbol="onStart"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="40" lineNum="13" pc="268437448" symbol="onStop"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="41" lineNum="15" pc="268437453" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="41" lineNum="16" pc="268437457" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="41" lineNum="17" pc="268437481" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="41" lineNum="18" pc="268437507" symbol="getInitialView"/>
+        <entry filename="C:\\Users\\utente\\eclipse-workspace\\UltimateSailing\\source\\UltimateSailingApp.mc" id="41" lineNum="4" pc="268438320" symbol="&lt;init&gt;"/>
+        <entry filename="Rez" id="47" lineNum="18" pc="268437535" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="20" pc="268437547" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="21" pc="268437680" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="22" pc="268437792" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="23" pc="268437832" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="24" pc="268437972" symbol="MainLayout"/>
+        <entry filename="Rez" id="47" lineNum="26" pc="268438135" symbol="MainLayout"/>
+        <entry filename="Rez" id="49" lineNum="1" pc="268438339" symbol="&lt;init&gt;"/>
+    </pcToLineNum>
+    <symbolTable>
+        <entry id="8388639" module="true" symbol="Graphics"/>
+        <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
+        <entry id="43" method="true" symbol="isRacing"/>
+        <entry id="4" module="true" symbol="globals/Rez/Menus"/>
+        <entry field="true" id="29" symbol="status"/>
+        <entry field="true" id="24" symbol="myRaceTimer"/>
+        <entry id="21" method="true" symbol="MainLayout"/>
+        <entry field="true" id="19" symbol="id_hansa"/>
+        <entry field="true" id="31" symbol="time2start"/>
+        <entry id="41" method="true" symbol="isPaused"/>
+        <entry id="8391787" method="true" symbol="resume"/>
+        <entry id="8388924" module="true" symbol="Gregorian"/>
+        <entry field="true" id="8388611" module="true" symbol="Toybox"/>
+        <entry id="32" method="true" symbol="reset"/>
+        <entry id="44" method="true" symbol="countdown"/>
+        <entry field="true" id="23" symbol="myView"/>
+        <entry field="true" id="22" symbol="AppName"/>
+        <entry id="8" module="true" symbol="globals/Rez/Strings"/>
+        <entry id="8389080" method="true" symbol="onMenu"/>
+        <entry id="8388772" module="true" object="true" symbol="Fonts"/>
+        <entry id="8389345" symbol="rezId"/>
+        <entry id="8388648" module="true" symbol="WatchUi"/>
+        <entry id="8389081" method="true" symbol="onBack"/>
+        <entry field="true" id="14" symbol="myLongVibe"/>
+        <entry id="2" module="true" symbol="globals/Rez"/>
+        <entry id="8389124" method="true" symbol="onUpdate"/>
+        <entry field="true" id="8389065" symbol="locY"/>
+        <entry field="true" id="8389064" symbol="locX"/>
+        <entry id="28" method="true" symbol="updateRaceTimer"/>
+        <entry field="true" id="30" symbol="minutes2start"/>
+        <entry id="8388771" module="true" object="true" symbol="Drawables"/>
+        <entry id="8389348" symbol="font"/>
+        <entry id="8389079" method="true" symbol="onPreviousPage"/>
+        <entry id="18" module="true" symbol="Menus"/>
+        <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
+        <entry id="8389122" method="true" symbol="onLayout"/>
+        <entry field="true" id="8389063" symbol="identifier"/>
+        <entry id="8389349" symbol="justification"/>
+        <entry id="8388987" method="true" symbol="vibrate"/>
+        <entry id="7" module="true" symbol="globals/Rez/JsonData"/>
+        <entry id="11" object="true" symbol="UltimateSailingTimer"/>
+        <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+        <entry id="38" method="true" symbol="getDuration"/>
+        <entry id="40" method="true" symbol="getMinutes"/>
+        <entry id="8388644" module="true" symbol="System"/>
+        <entry id="37" method="true" symbol="syncDown"/>
+        <entry id="8389619" method="true" symbol="onSelect"/>
+        <entry id="8388645" module="true" symbol="Time"/>
+        <entry id="8388769" module="true" object="true" symbol="Rez"/>
+        <entry id="13" object="true" symbol="UltimateSailingApp"/>
+        <entry id="27" method="true" symbol="timerCallback"/>
+        <entry field="true" id="26" symbol="myFeedBack"/>
+        <entry field="true" id="15" symbol="myShortVibe"/>
+        <entry id="8388640" module="true" symbol="Lang"/>
+        <entry id="8390088" module="true" object="true" symbol="JsonData"/>
+        <entry field="true" id="20" symbol="LauncherIcon"/>
+        <entry id="8388610" symbol="statics"/>
+        <entry id="8389123" method="true" symbol="onShow"/>
+        <entry id="42" method="true" symbol="isCountingDown"/>
+        <entry id="8389350" module="true" symbol="globals"/>
+        <entry field="true" id="25" symbol="myTimer"/>
+        <entry id="8388770" module="true" object="true" symbol="Strings"/>
+        <entry id="8388702" method="true" symbol="initialize"/>
+        <entry id="8389279" method="true" symbol="onStart"/>
+        <entry id="10" object="true" symbol="UltimateSailingDelegate"/>
+        <entry id="8389280" method="true" symbol="getInitialView"/>
+        <entry id="8389281" method="true" symbol="onStop"/>
+        <entry id="8389347" symbol="color"/>
+        <entry id="9" object="true" symbol="UltimateSailingFeedBack"/>
+        <entry id="8388646" module="true" object="true" symbol="Timer"/>
+        <entry id="17" module="true" symbol="Layouts"/>
+        <entry id="34" method="true" symbol="specialAction"/>
+        <entry id="8388636" module="true" symbol="Attention"/>
+        <entry id="16" method="true" symbol="poke"/>
+        <entry id="12" object="true" symbol="UltimateSailingView"/>
+        <entry id="35" method="true" symbol="pause"/>
+        <entry id="5" module="true" symbol="globals/Rez/Fonts"/>
+        <entry id="8389125" method="true" symbol="onHide"/>
+        <entry id="33" method="true" symbol="togglePause"/>
+        <entry id="39" method="true" symbol="getSeconds"/>
+        <entry id="8389078" method="true" symbol="onNextPage"/>
+        <entry id="36" method="true" symbol="setTime"/>
+        <entry id="8388635" module="true" symbol="Application"/>
+    </symbolTable>
+    <localVars>
+        <entry arg="true" endPc="268435756" name="minutes" stackId="1" startPc="268435461"/>
+        <entry arg="true" endPc="268435756" name="seconds" stackId="2" startPc="268435461"/>
+        <entry arg="true" endPc="268435797" name="vibe" stackId="1" startPc="268435756"/>
+        <entry arg="true" endPc="268435965" name="view" stackId="1" startPc="268435797"/>
+        <entry endPc="268436399" name="now" stackId="1" startPc="268436169"/>
+        <entry endPc="268436399" name="timeString" stackId="3" startPc="268436169"/>
+        <entry endPc="268436399" name="info" stackId="2" startPc="268436169"/>
+        <entry endPc="268436617" name="timerString" stackId="3" startPc="268436404"/>
+        <entry endPc="268436617" name="minutes" stackId="1" startPc="268436404"/>
+        <entry endPc="268436617" name="seconds" stackId="2" startPc="268436404"/>
+        <entry arg="true" endPc="268437027" name="min" stackId="1" startPc="268436963"/>
+        <entry arg="true" endPc="268437027" name="sec" stackId="2" startPc="268436963"/>
+        <entry arg="true" endPc="268437385" name="dc" stackId="1" startPc="268437343"/>
+        <entry arg="true" endPc="268437415" name="dc" stackId="1" startPc="268437390"/>
+        <entry arg="true" endPc="268437448" name="state" stackId="1" startPc="268437443"/>
+        <entry arg="true" endPc="268437453" name="state" stackId="1" startPc="268437448"/>
+        <entry endPc="268437534" name="view" stackId="1" startPc="268437457"/>
+        <entry endPc="268437534" name="delegate" stackId="2" startPc="268437457"/>
+        <entry endPc="268438182" name="rez_cmp_local_text_centerLabel" stackId="5" startPc="268437547"/>
+        <entry endPc="268438182" name="rez_cmp_local_text_bottomLabel" stackId="4" startPc="268437547"/>
+        <entry endPc="268438182" name="rez_cmp_local_bitmap_id_hansa" stackId="3" startPc="268437547"/>
+        <entry endPc="268438182" name="rez_cmp_local_text_topLabel" stackId="2" startPc="268437547"/>
+        <entry arg="true" endPc="268438183" name="dc" stackId="1" startPc="268437535"/>
+    </localVars>
+    <annotations>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="id_hansa"/>
+        <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
+        <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
+    </annotations>
+    <dataEntryOffsetMappings>
+        <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
+        <dataEntry label="globals/UltimateSailingView" offset="174" parentId="globals" symbolId="UltimateSailingView" type="class"/>
+        <dataEntry label="globals/UltimateSailingFeedBack" offset="253" parentId="globals" symbolId="UltimateSailingFeedBack" type="class"/>
+        <dataEntry label="globals/UltimateSailingApp" offset="332" parentId="globals" symbolId="UltimateSailingApp" type="class"/>
+        <dataEntry label="globals/Rez" offset="403" parentId="globals" symbolId="Rez" type="module"/>
+        <dataEntry label="globals/Rez/Drawables" offset="482" parentId="Rez" symbolId="Drawables" type="module"/>
+        <dataEntry label="globals/Rez/Menus" offset="529" parentId="Rez" symbolId="Menus" type="module"/>
+        <dataEntry label="globals/Rez/Fonts" offset="560" parentId="Rez" symbolId="Fonts" type="module"/>
+        <dataEntry label="globals/Rez/Layouts" offset="591" parentId="Rez" symbolId="Layouts" type="module"/>
+        <dataEntry label="globals/Rez/JsonData" offset="630" parentId="Rez" symbolId="JsonData" type="module"/>
+        <dataEntry label="globals/Rez/Strings" offset="661" parentId="Rez" symbolId="Strings" type="module"/>
+        <dataEntry label="globals/UltimateSailingDelegate" offset="700" parentId="globals" symbolId="UltimateSailingDelegate" type="class"/>
+        <dataEntry label="globals/UltimateSailingTimer" offset="835" parentId="globals" symbolId="UltimateSailingTimer" type="class"/>
+    </dataEntryOffsetMappings>
+    <functions>
+        <functionEntry accessMode="public" name="initialize" parent="UltimateSailingFeedBack">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="poke" parent="UltimateSailingFeedBack">
+            <param id="minutes"/>
+            <param id="seconds"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="vibrate" parent="UltimateSailingFeedBack">
+            <param id="vibe"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="UltimateSailingDelegate">
+            <param id="view"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onMenu" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onBack" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onSelect" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onPreviousPage" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onNextPage" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="timerCallback" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="updateRaceTimer" parent="UltimateSailingDelegate">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="reset" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="togglePause" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="specialAction" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="pause" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="resume" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="setTime" parent="UltimateSailingTimer">
+            <param id="min"/>
+            <param id="sec"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="syncDown" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getDuration" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getSeconds" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getMinutes" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isPaused" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isCountingDown" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="isRacing" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="countdown" parent="UltimateSailingTimer">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="UltimateSailingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onLayout" parent="UltimateSailingView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onShow" parent="UltimateSailingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onUpdate" parent="UltimateSailingView">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onHide" parent="UltimateSailingView">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="initialize" parent="UltimateSailingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStart" parent="UltimateSailingApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="onStop" parent="UltimateSailingApp">
+            <param id="state"/>
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="getInitialView" parent="UltimateSailingApp">
+            <documentation/>
+        </functionEntry>
+        <functionEntry accessMode="public" name="MainLayout" parent="Layouts">
+            <param id="dc"/>
+            <documentation/>
+        </functionEntry>
+    </functions>
+</debugInfo>
